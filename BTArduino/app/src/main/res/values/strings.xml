@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">BTArduino</string>
+    <string name="turn_on">Turn On</string>
+    <string name="string_turn_on" />
+    <string name="visual">Visual</string>
+    <string name="connect">Connect</string>
+    <string name="forearm_rotation">Forearm Rotation</string>
+    <string name="arm_rotation">Arm Rotation</string>
+    <string name="base_rotation">Base Rotation</string>
+    <string name="wrist_rotation">Wrist rotation</string>
+</resources>
